@@ -45,7 +45,7 @@ model=Sequential([Dense(64,activation='relu',input_shape=(input_dim,),    #Addin
                   Dense(1,activation='sigmoid'])                          #Output layer
 
 #Compiling
-model.compile(oprimizer='adam',loss='binary_crossentropy',metrics='accuracy')
+model.compile(optimizer='adam',loss='binary_crossentropy',metrics='accuracy')
 model.summary()
 
 #Training
