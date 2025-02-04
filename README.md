@@ -1,7 +1,7 @@
 # AmericanExpress-Data-Analysis-for-User-Exit-Prediction
 Analysing AmEx data for predicting of User Exit
 
-Data Points: 
+**Data Points: **
 -	Credit Score
 -	Geography
 -	Gender
@@ -12,13 +12,12 @@ Data Points:
 -	UPI enabled
 -	Estimated yearly salary
 -	Closed
-Steps
+  
+**Steps**
 1.	Data Preprocessing
 -	Importing libraries
 -	Importing dataset
--	Handling missing data
--	Encoding independent variable
--	Encoding dependent variable
+-	Encoding categorical data for independent variable
 -	Splitting training and test data
 -	Feature scaling
 2.	Analysis
