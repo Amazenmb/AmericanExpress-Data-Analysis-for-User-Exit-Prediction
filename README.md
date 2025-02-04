@@ -1,10 +1,11 @@
 # AmericanExpress-Data-Analysis-for-User-Exit-Prediction
 Analysing AmEx data for predicting of User Exit
+I have used Artificial Neural Network for training the model. 
 
-**Data Points: **
+**Data Points**
 -	Credit Score
--	Geography
--	Gender
+-	Geography (categorical -3)
+-	Gender (Categorical - 2)
 -	Age
 -	Customer Since
 -	Current Amount
