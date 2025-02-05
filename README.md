@@ -28,6 +28,8 @@ I have used Artificial Neural Network for training the model.
 -	Evaluate
 -	Prediction
 -	Verify using confusion matrix
+
+  
   ![image](https://github.com/user-attachments/assets/58feede1-1384-4881-a0cc-820ca849c814)
 
 
